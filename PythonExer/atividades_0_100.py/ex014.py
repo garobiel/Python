@@ -1,0 +1,6 @@
+celsius = float(input('Informe a temperatura em C: '))
+fahrenheit = float((celsius * 1.8 + 32))
+print('A tempeura de C para F sera de {:.1f}F.'.format(fahrenheit))
+print('E se fosse ao contrario ? ')
+celsius = float((fahrenheit - 32) / 1.8)
+print('O resultado de {:.1f} para celsiu sera de {:.1f}c.'.format(fahrenheit,celsius))
