@@ -5,6 +5,7 @@ print('O tipo primitivo desse valor é: {}'.format(type(ob1)))
 print('Só tem espaços? {}'.format(ob1.isspace()))
 
 print('É um número? {}'.format(ob1.isnumeric()))
+
 print('É alfabético? {}'.format(ob1.isalpha()))
 
 print('É alfanumérico? {}'.format(ob1.isalnum()))
