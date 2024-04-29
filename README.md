@@ -1,2 +1,2 @@
-# Python do Gust
+# Python
  
